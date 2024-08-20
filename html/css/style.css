@@ -1,0 +1,47 @@
+
+/*  */
+#car{
+    height: auto;
+    width: 80%;
+}
+
+#p1{
+    color: rgb(47, 106, 157);
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+#p2{
+    background-color: aquamarine;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-stretch: expanded;
+    font
+    }   
+
+#p3{
+  
+
+}
+
+
+.list{
+    list-style:armenian;
+}
+
+table{
+    border: 3px solid red;
+    color: black;
+    border-collapse: collapse;
+    margin: 5% 50% 5% 25%   
+}
+
+tr{
+    border-bottom: 2px solid black;
+}
+
+td{
+    border-right: 2px solid greenyellow;
+    padding: 2px 3px;
+}
